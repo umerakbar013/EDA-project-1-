@@ -1,5 +1,6 @@
+=========================================================
 This project is made with a help of AI Tool
-
+=========================================================
 outcomes from titanic dataset
 
 key insights
